@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Java</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="order">Order</string>
+    <string name="numbers">1</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="price">Order summary</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Name</string>
+    <string name="thank_you">\nTank you!!!</string>
+    <string name="total">\nTotal: </string>
+    <string name="add_whipped">\nAdd whipped cream? </string>
+    <string name="add_choco">\nAdd chocolate? </string>
+    <string name="quantity_title">\nQuantity:</string>
+    <string name="name_main">\nName: </string>
+    <string name="order_for">Order for </string>
+</resources>

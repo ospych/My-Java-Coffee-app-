@@ -1,0 +1,20 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Мой Жава</string>
+    <string name="quantity" translatable="false">Количество</string>
+    <string name="order">Заказ</string>
+    <string name="numbers">1</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="price">Общий заказ</string>
+    <string name="toppings">Начинки</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="name">Имя</string>
+    <string name="thank_you">\nСпасибо!!!</string>
+    <string name="total">\nВ общем: </string>
+    <string name="quantity_title">\nКоличество: </string>
+    <string name="name_main">\nИмя: </string>
+    <string name="order_for">Заказ для </string>
+    <string name="add_choco">\nДобавлен шоколад?</string>
+    <string name="add_whipped">\nДобавлен взбитые сливки?</string>
+</resources>
