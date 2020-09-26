@@ -72,11 +72,15 @@ public class MainActivity extends AppCompatActivity {
 
     private int calculatePrice(){
 
+        if (whippedCream() && chocolate()) {
+            return ((quantity * 5) + (2 * quantity + quantity));
+        }
+
         if (chocolate()) {
-            return quantity * 5 + 2;
+            return ((quantity * 5) + (2 * quantity));
         }
         else if (whippedCream()){
-            return quantity * 5 + 1;
+            return ((quantity * 5) + (quantity));
         }
         else {
             return quantity * 5;
